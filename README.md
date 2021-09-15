@@ -21,6 +21,6 @@ https://drive.google.com/drive/folders/1RuCF0CHVkP_o40RSZ1j3G1nfTnL6a5I0?usp=sha
  2. Display Data
  3. Delete Data
  4. Edit Data
- 5. RecyclerView
- 6. Editext
+
+
 
